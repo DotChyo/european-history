@@ -1,0 +1,13 @@
+# Python 构建缓存
+__pycache__/
+*.pyc
+
+# 操作系统杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
